@@ -33,8 +33,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-katwik-books-online-950gejkwiv.us2.codeanyapp.com',
-                'books-online.herokuapp.com/', 'localhost'
-                
+                'books-online-f76ae4c2ee47.herokuapp.com', 'localhost',
+                                
 ]
 
 
